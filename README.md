@@ -1,8 +1,8 @@
-# Google Play Console Privacy Policy (Score for Skull King)
+# Privacy Policy
 
 **Effective date:** April 29, 2026
 
-Score for Skull King does **not** collect, store, share, or sell any personal or sensitive user data.
+This app does **not** collect, store, share, or sell any personal or sensitive user data.
 
 ## Data handling summary
 
