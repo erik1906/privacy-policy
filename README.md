@@ -14,4 +14,4 @@ This app does **not** collect, store, share, or sell any personal or sensitive u
 
 If data practices change in future app updates, this policy will be updated before release.
 
-**Contact:** erde1931@gmail.com
+**Contact:** erdev1931@gmail.com
